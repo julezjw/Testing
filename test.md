@@ -5,6 +5,7 @@ hi
 
 ## Typical Git commands
 `git <command> <something here>`
+
 1. Add 
 - `git add test.md`
 - `git add .` ##add all files
