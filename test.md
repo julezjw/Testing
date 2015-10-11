@@ -19,3 +19,9 @@ hi
 ## Other GitHub commands
 1. `git init` : initializes repository 
 2. `git status` : shows what's happened 
+3. Branching
+	- `git checkout -b "<branch-name>"` : creating a new branch 
+	- `git checkout "<branch-name>" : takes you to pre-existing branch 
+	
+#Gibberish 
+hfuhoeughsodijfoihgoerhvosbouhfohwenoifnrighoeiofehb ueboehgoidn noibviow
